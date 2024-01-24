@@ -1,5 +1,5 @@
 # Flight One E6B
-## Aviation calculator for Students and Pilots
+#### Aviation Calculator for Students and Pilots
 
 ## Help
 Version 1.0.0
