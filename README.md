@@ -78,7 +78,7 @@ You can delete individual stations by swiping left.
 ### Linear Interpolator
 This function is designed to help interpolate performance tables and other data found in the Pilot’s Operating Handbook.
 
-Suppose you need to calculate short field takeoff distance, at a pressure altitude of 4580 ft. This is what the POH lists:
+Suppose you need to calculate short field takeoff distance, at a pressure altitude of 4580 feet. This is what the POH lists:
 
 | Press Alt	| Ground Roll	| Total distance to clear 50ft obstacle |
 |-----------|-------------|---------------------------------------|
