@@ -108,11 +108,11 @@ Interpolator inputs have a valid range of -99999 through 99999.
 This function provides the following conversions between imperial and metric units. You can enter values on either side:
 
 Feet ↔ Meters
-Inches of mercury ↔ Millibars
-Nautical miles ↔ Statute miles ↔ Kilometers
-Fahrenheit ↔ Celsius ↔ Kelvins
-Gallons ↔ Liters
-Pounds ↔ Kilograms
+<br>Inches of mercury ↔ Millibars
+<br>Nautical miles ↔ Statute miles ↔ Kilometers
+<br>Fahrenheit ↔ Celsius ↔ Kelvins
+<br>Gallons ↔ Liters
+<br>Pounds ↔ Kilograms
 
 ### Time Calculator
 Two functions are available here: Add or subtract time in the HH:MM:SS format, and convert time between HH:MM:SS and decimal hours, minutes, and seconds.
