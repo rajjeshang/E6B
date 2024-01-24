@@ -121,6 +121,6 @@ In the Add Time function, add as many time units as you need. Swipe left to dele
 
 In the convert time function, start with any input. The others will update to display the corresponding value.
 
-### Privacy Policy:
+## Privacy Policy:
 
 Flight One E6B does not collect any data about you or your device. All calculations are saved locally on your device. You can reset all inputs by going to "Help & Preferences" and tapping "Reset all inputs"
