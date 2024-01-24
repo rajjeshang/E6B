@@ -16,7 +16,7 @@ The functions are organized into groups to help speed up your workflow. You can 
 
 In all functions, inputs are highlighted with a box, whereas computed values, or outputs, are not:
 
-[Show what input and output look like]
+![alt text](https://github.com/rajjeshang/E6B/blob/main/InputOutput.png?raw=true)
 
 In the example above, the output displays a value 2x the input. Each input has a valid range, depending on the function. For example, the input above has a valid range of -99 and 99. 
 
