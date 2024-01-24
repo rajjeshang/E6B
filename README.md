@@ -4,7 +4,8 @@
 ## Help
 Version 1.0.0
 
-### About
+<details>
+<summary>### About</summary>
 
 Thank you for downloading the Flight One E6B app.
 
@@ -22,6 +23,7 @@ In the example above, the output displays a value 2x the input. Each input has a
 
 When you enter a value, all connected outputs update in real time. Data is automatically saved, so you can pick up where you left off when you re-launch the app. 
 
+</details>
 #### Rounding
 
 Certain outputs are rounded to the nearest integer where a decimal point is irrelevant, such as a heading. For example, a heading of 135.4° will be displayed as 135°, and 135.5 reads 136°.
