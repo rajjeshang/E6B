@@ -1,4 +1,4 @@
-# Flight One E6B
+# Flight One E6B Computer
 #### Aviation Calculator for Students and Pilots
 
 ## Help
