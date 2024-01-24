@@ -18,7 +18,7 @@ In all functions, inputs are highlighted with a box, whereas computed values, or
 
 ![alt text](https://github.com/rajjeshang/E6B/blob/main/InputOutput.PNG?raw=true)
 
-In the example above, the output displays a value 2x the input. Each input has a valid range, depending on the function. For example, the input above has a valid range of -99 and 99. 
+In the example above, the output displays a value 2x the input. Each input has a valid range, depending on the function. For example, in the app, the input above has a valid range of -99 and 99. 
 
 When you enter a value, all connected outputs update in real time. Data is automatically saved, so you can pick up where you left off when you re-launch the app. 
 
