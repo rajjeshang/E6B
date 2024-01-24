@@ -1,6 +1,7 @@
-# Fly One E6B
+# Flight One E6B
+## Aviation calculator for Students and Pilots
 
-### Beta Test V0.1.0
+### Version 1.0.0
 
 ### Privacy Policy:
 
