@@ -123,4 +123,4 @@ In the convert time function, start with any input. The others will update to di
 
 ### Privacy Policy:
 
-This app DOES NOT collect any information about you or your device. All calculations are stored only on your device. You can clear all data by going to "Help & Preferences" and selecting "Reset all inputs"
+Flight One E6B does not collect any data about you or your device. All calculations are saved locally on your device. You can reset all inputs by going to "Help & Preferences" and tapping "Reset all inputs"
