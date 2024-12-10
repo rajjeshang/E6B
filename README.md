@@ -60,9 +60,9 @@ Wind direction and speed use the inputs from the Wind section above. Crosswind a
 
 The L or R in the crosswind output tells you which direction the wind is blowing from. Similarly, the H or T in the head/tail wind component tells you if you’re got a head or tail wind.
 
-#### *Flight Time*
+#### *Ascent / Descent*
 
-Time needed to fly the distance entered is based on your ground speed.
+Uses your indicated altitude as your starting point. When final altitude is higher, the funciton indicates a climb. When lower, it indicates descent.
 
 ### Fuel Calculator
 
