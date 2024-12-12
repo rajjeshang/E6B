@@ -121,11 +121,7 @@ In the Add Time function, add as many time units as you need. Swipe left to dele
 
 In the convert time function, start with any input. The others will update to display the corresponding value.
 
-## Privacy Policy:
-
-Flight One E6B does not collect any data about you or your device. All calculations are saved locally on your device. You can reset all inputs by going to "Help & Preferences" and tapping "Reset all inputs"
-
-### Terms and Conditions:
+## Terms and Conditions:
 
 1. Introduction
 Welcome to FlightOne E6B (the "App"). By using the App, you agree to these Terms and Conditions ("Terms"). Please read them carefully before using the App.
@@ -147,3 +143,7 @@ To the fullest extent permitted by law, Raj Jeshang will not be liable for any d
 
 7. Changes to These Terms
 We may update these Terms from time to time. Any changes will be posted within the App, and continued use of the App constitutes acceptance of any updated Terms.
+
+## Privacy Policy:
+
+This app accesses your purchase history for the sole purpose of unlocking full access for paying customers. No other information about you or your device is collected. All calculations are saved locally on your device. You can reset all inputs by going to "Help & Preferences" and tapping "Reset all inputs"
