@@ -2,7 +2,7 @@
 #### Aviation Calculator for Students and Pilots
 
 ## Help
-Version 1.2.0
+Version 1.2
 
 ### About
 
