@@ -1,4 +1,4 @@
-# Flight One E6B Computer
+# FlightOne E6B Computer
 #### Aviation Calculator for Students and Pilots
 
 ## Help
@@ -6,7 +6,7 @@ Version 1.2.0
 
 ### About
 
-Thank you for downloading the Flight One E6B app.
+Thank you for downloading the FlightOne E6B app.
 
 This app is designed to help you preform pre-flight planning and performance calculations quickly and efficiently on the ground.
 
